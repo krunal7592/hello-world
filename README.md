@@ -1,2 +1,5 @@
 # hello-world
-This is simple hello-world repository
+Hello, Everyone 
+
+My Name is krunal. My hobbies are playing cricket,football,basketball. I like swimming.
+
